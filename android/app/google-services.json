@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788201307082",
+    "project_id": "hanapbuhay-a221f",
+    "storage_bucket": "hanapbuhay-a221f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788201307082:android:d3d10cd5e11295e6602d33",
+        "android_client_info": {
+          "package_name": "com.example.hanap_buhay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF1PvpN-qTlVz_yx6SzcSlhdbQpWWIFKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
