@@ -1,7 +1,21 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:firebase';
+import 'package:firebase_core/firebase_core.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  if (kIsWeb) {
+    await Firebase.initializeApp(
+        options: const FirebaseOptions(
+            apiKey: "AIzaSyDMKG9i0MJ60I99ndW_4_13fYix4S2QRb4",
+            authDomain: "hanapbuhay-a221f.firebaseapp.com",
+            projectId: "hanapbuhay-a221f",
+            storageBucket: "hanapbuhay-a221f.appspot.com",
+            messagingSenderId: "788201307082",
+            appId: "1:788201307082:web:2a613e06ed55b254602d33"));
+  } else {
+    await Firebase.initializeApp();
+  }
   runApp(const Home());
 }
 
