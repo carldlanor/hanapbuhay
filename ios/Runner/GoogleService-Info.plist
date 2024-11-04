@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyDwuInKViqjew3doNtoI5PSJY_Q3t4r9Jo</string>
+	<string>AIzaSyDDWBpS6HEAtELPjxSgsQCTENd6bimUWiY</string>
 	<key>GCM_SENDER_ID</key>
-	<string>788201307082</string>
+	<string>825344987216</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.hanapBuhay</string>
+	<string>com.hanapbuhay</string>
 	<key>PROJECT_ID</key>
-	<string>hanapbuhay-a221f</string>
+	<string>hanapbuhay-4d346</string>
 	<key>STORAGE_BUCKET</key>
-	<string>hanapbuhay-a221f.appspot.com</string>
+	<string>hanapbuhay-4d346.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:788201307082:ios:a646ed0690e1dd97602d33</string>
+	<string>1:825344987216:ios:c5657b00b76b9828b04155</string>
 </dict>
 </plist>

@@ -1,6 +1,7 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+package=hanapbuhay>
     <application
-        android:label="hanap_buhay"
+        android:label="hanapbuhay"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
